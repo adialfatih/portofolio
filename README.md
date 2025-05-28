@@ -1,6 +1,100 @@
 <h1 align="center">Hi 👋, I'm Adi Subuh</h1>
 <h3 align="center">A passionate Software Development | Specializing in full-stack systems from Indonesia</h3>
 
+---
+
+## 🚀 Tentang Saya
+
+Saya adalah seorang software developer dengan spesialisasi pada pengembangan **sistem keuangan, WhatsApp bot, dan dashboard custom** untuk kebutuhan UMKM maupun perusahaan berskala besar.
+
+Saat ini, saya bekerja sebagai:
+- 👔 Full-time Developer di **PT. Rindang Jati Spinning** (perusahaan tekstil)
+- 👨‍💻 Part-time Developer di **PT. Samatex**
+- 👨‍💻 Part-time Developer di **PT. Pusatex**
+
+Saya juga membangun **Grafamedia**, layanan pengembangan software custom dan solusi digital untuk UMKM sejak 2020.
+
+---
+
+## 🧠 Keahlian Saya
+- Pencatatan & Laporan Keuangan Otomatis
+- WhatsApp Bot Otomatisasi
+- Dashboard Produksi & Inventory
+- Sistem Kasir / POS untuk UMKM
+- Aplikasi Web & Mobile untuk kebutuhan bisnis
+- Weaving Monitoring APP
+- HR Management & Payroll APP
+
+---
+
+## 🛠️ Teknologi & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-E74430?logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![WhatsApp Web.js](https://img.shields.io/badge/-WhatsAppWeb.js-25D366?logo=whatsapp&logoColor=white)
+
+---
+
+## 🔥 Proyek Unggulan
+
+| Nama Proyek | Deskripsi | Teknologi |
+|-------------|-----------|-----------|
+| [WhatsApp Financial Bot](https://github.com/adialfatih/wabot-finance) | Bot WhatsApp untuk mencatat pemasukan & pengeluaran, laporan harian & bulanan, dan pie chart otomatis | Node.js, MySQL, WhatsApp Web.js |
+| [BatikFlow](https://github.com/adialfatih/batik-bosami) | Sistem manajemen produksi, inventory, dan keuangan untuk pabrik tekstil batik | PHP, MySQL |
+| [Smart WA Assistant](https://github.com/adialfatih/wabot-sender) | Bot WhatsApp berbasis AI untuk bantu pelanggan secara otomatis | Node.js, OpenAI API |
+| [Monitoring Weaving](https://github.com/adialfatih/Monitoring-AJL) | Aplikasi Monitoring Produksi Weaving Real-time Mobile & WebApp
+
+
+---
+
+## 🧾 Bekerja Di
+
+- **PT. Rindang Jati Spinning** — *Software Developer (Full-time)*  
+  Sistem manajemen pabrik tekstil & percetakan: pembelian, produksi, cash flow, customer, laporan, HR Management
+
+- **PT. Samatex** — *Developer (Part-time)*  
+  Dashboard HR Management, laporan keuangan, sistem inventory, monitoring weaving
+
+- **PT. Pusatex** — *Developer (Part-time)*  
+  Sistem manajemen pabrik tekstil & percetakan: pembelian, produksi, cash flow, customer, laporan, HR Management
+  
+- **Grafamedia** — *Project Manager (Owner)*  
+  WhatsApp Bot & Custom App untuk UMKM dan Industri Tekstil
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Trophy & Badge
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&title=PullRequest,Commits,Repositories,Followers"/>
+</p>
+
+---
+
+## 🌐 Hubungi Saya
+
+- Website: [https://grafamedia.com](https://grafamedia.com)
+- Instagram: [@adi_alfatih](https://instagram.com/adi_alfatih)
+- GitHub: [github.com/USERNAME](https://github.com/adialfatih)
+
+---
+
+_“Mengembangkan solusi digital untuk bisnis, agar lebih efisien, cepat, dan terukur.”_
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adialfatih&label=Profile%20views&color=0e75b6&style=flat" alt="adialfatih" /> </p>
 
 - 🔭 I’m currently working on **Weaving App Monitoring System**

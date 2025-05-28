@@ -70,16 +70,16 @@ Saya juga membangun **Grafamedia**, layanan pengembangan software custom dan sol
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adialfatih&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adialfatih&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 Trophy & Badge
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&title=PullRequest,Commits,Repositories,Followers"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adialfatih&theme=darkhub&no-frame=true&title=PullRequest,Commits,Repositories,Followers"/>
 </p>
 
 ---
